@@ -1,2 +1,2 @@
 # Assignments_BPDA
-Submission for Python for Data Analytics Class
+Submission for Berkeley Python Data Analytics Class
